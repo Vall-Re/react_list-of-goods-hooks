@@ -4,7 +4,7 @@ import './App.scss';
 
 import { SortType, Good } from './types';
 
-export const goodsFromServer = [
+export const goodsFromServer: Good[] = [
   'Dumplings',
   'Carrot',
   'Eggs',
