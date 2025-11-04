@@ -4,4 +4,4 @@ export enum SortType {
   Length = 'length',
 }
 
-export type Good = [name: string];
+export type Good = string;
